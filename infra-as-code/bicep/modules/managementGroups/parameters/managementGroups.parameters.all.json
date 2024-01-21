@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "parTopLevelManagementGroupPrefix": {
-      "value": "brittandsam.com"
+      "value": "ALZ-Test"
     },
     "parTopLevelManagementGroupSuffix": {
       "value": ""
